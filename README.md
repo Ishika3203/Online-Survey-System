@@ -1,0 +1,2 @@
+# Online-Survey-System
+Our project title is Online Survey System. We made our project online survey system on Covid which made our lives so challenging. Basically this project is for developing an online survey system using Java as the foundation. The focus of the project is to build an online platform that can efficiently collect the viewpoints of the target audience of a survey via the Internet.
